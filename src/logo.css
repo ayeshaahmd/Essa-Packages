@@ -1,0 +1,22 @@
+.logo-brand {
+  display: block;
+  width: 104px;
+  height: 65px;
+}
+
+.logo-brand img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.footer-brand.logo-brand {
+  width: 132px;
+  height: 82px;
+}
+
+@media (max-width: 560px) {
+  .logo-brand { width: 88px; height: 55px; }
+  .footer-brand.logo-brand { width: 118px; height: 73px; }
+}

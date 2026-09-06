@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://essapackages.netlify.app/</loc>
+    <lastmod>2026-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://essapackages.netlify.app/images/custom-rigid-gift-box-photo.webp</image:loc>
+      <image:title>Custom rigid gift box packaging by Essa Packages</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://essapackages.netlify.app/images/corrugated-boxes-photo.webp</image:loc>
+      <image:title>Corrugated boxes manufactured in Karachi</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://essapackages.netlify.app/images/printed-cartons-photo.webp</image:loc>
+      <image:title>Custom printed carton packaging</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://essapackages.netlify.app/images/master-boxes-photo.webp</image:loc>
+      <image:title>Master cartons for business and bulk orders</image:title>
+    </image:image>
+    <image:image>
+      <image:loc>https://essapackages.netlify.app/images/fancy-carton-photo.webp</image:loc>
+      <image:title>Premium fancy carton packaging</image:title>
+    </image:image>
+  </url>
+</urlset>
